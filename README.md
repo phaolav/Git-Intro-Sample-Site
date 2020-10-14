@@ -11,5 +11,7 @@ This repository contains the source code for the Roll Call of those who attended
 - Add your changes to the staging area `$ git add .`
 - Again, check status of your working tree to confirm add `$ git status`
 - Commit your changes and make a pull request `$ git commit -m "*your commit message*"`
+- Push your local changes to the remote repo `$ git push -u origin *yourBranchName*`
+- Create a pull report
 - Wait for the pull requests to be approved
 - See how everyone was able to contribute to a remote project using Git!
